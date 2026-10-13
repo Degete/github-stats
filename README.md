@@ -1,0 +1,1 @@
+[![Update GitHub Stats](https://github.com/Degete/github-stats/actions/workflows/grs.yml/badge.svg)](https://github.com/Degete/github-stats/actions/workflows/grs.yml)
